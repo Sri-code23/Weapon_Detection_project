@@ -1,0 +1,9 @@
+flask 
+ultralytics 
+opencv-python 
+requests 
+numpy
+cv2
+glob
+
+# run "pip install -r requirments.txt" to install the required packages for th project
